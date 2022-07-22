@@ -1,6 +1,6 @@
 ## Amqp
 
-Warning: Alpha Version
+Warning: `Alpha Version`
 
 In Jolie an amqp location implements an asynchronous communication between two services.
 
