@@ -92,6 +92,7 @@
   * [Btl2Cap](language-tools-and-standard-library/locations/btl2cap.md)
   * [RMI](language-tools-and-standard-library/locations/rmi.md)
   * [LocalSocket](language-tools-and-standard-library/locations/localsocket.md)
+  * [Amqp](language-tools-and-standard-library/locations/amqp.md)
 * [Databases](language-tools-and-standard-library/databases/README.md)
   * [Databases](language-tools-and-standard-library/databases/databases.md)
 * [Mock Services](language-tools-and-standard-library/mock/README.md)
