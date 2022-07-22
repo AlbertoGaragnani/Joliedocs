@@ -1,5 +1,7 @@
 ## Amqp
 
+Warning: Alpha Version
+
 In Jolie an amqp location implements an asynchronous communication between two services.
 
 The communication is mediated by a queue defined in the RabbitMQ implementation of Amqp protocol.
